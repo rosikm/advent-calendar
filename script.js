@@ -3,7 +3,7 @@ const PDF_PATH = 'AdventCalendar2025.pdf';
 const TOTAL_WINDOWS = 24;
 
 // Test mode - set to true to unlock all windows
-const TEST_MODE = true;
+const TEST_MODE = false;
 
 // Page distribution according to requirements
 const PAGE_DISTRIBUTION = [
